@@ -31,7 +31,7 @@
 在目标设备上执行：
 
 ```bash
-git clone https://github.com/<你的用户名>/<这个仓库名>.git /tmp/write-a-story
+git clone https://github.com/Jasperrax1/write-a-story.git /tmp/write-a-story
 bash /tmp/write-a-story/install.sh
 ```
 
@@ -57,7 +57,7 @@ $write-a-story
 如果你的环境使用 `npx skills`，可以尝试：
 
 ```bash
-npx skills add <你的用户名>/<这个仓库名> -g -y
+npx skills add Jasperrax1/write-a-story -g -y
 ```
 
 不同 skills runtime 对仓库布局的识别规则可能不同；如果 CLI 安装失败，用方式 A 或方式 B。
